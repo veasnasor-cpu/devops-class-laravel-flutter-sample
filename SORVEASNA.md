@@ -21,6 +21,6 @@ Code -> Test -> Build -> Release -> Deploy
 ### Controls
 
 On test/build failure: notify to group chat | Release approval by: MOT PHUM
-After deployment, check: login, register, and other features | If it fails: Contact to PEN SREYNEAT
+After deployment, check: login, register, and other features | If it fails: Contact to PEN SREYNEAT and report the issue in group chat / rollback to the previous version
 Feedback for the next change: require to update the code or change the logic
 Optional drawing: ![My pipeline](image.png)
