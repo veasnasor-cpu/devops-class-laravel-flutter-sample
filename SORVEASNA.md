@@ -12,11 +12,11 @@
 
 Code -> Test -> Build -> Release -> Deploy
 
-1. Code: [action] | [PEN SREYNEAT] | [Register Screen] | [manual]
-2. Test: [action] | [KHUN TOUCH] | [check register Screen] | [auto/manual]
-3. Build: [action] | [MOT PHUM] | [apk file] | [auto]
-4. Release: [action] | [SOR VEASNA] | [apk file v.0.0.1] | [auto]
-5. Deploy: [action] | [PEN SREYNEAT] | [apk file v.0.0.1] | [auto]
+1. Code: commit code | PEN SREYNEAT| [Register Screen] | [manual]
+2. Test: check code | KHUN TOUCH | [check register Screen] | [auto/manual]
+3. Build: build flutter build apk --release | MOT PHUM | [apk file] | [auto]
+4. Release: tag new version v.0.0.1 | SOR VEASNA | [apk file v.0.0.1] | [manual]
+5. Deploy: Upload new apk to app distribution | SOR VEASNA | [apk file v.0.0.1] | [manual]
 
 ### Controls
 
